@@ -2,6 +2,7 @@
 
 ### Part 1 EDA
 - Libraries used: pandas, numpy, matplotlib, pandas-profiling
+- Remember encoding issues with geoplaces2.csv
 ### Part 2 
 - [ ] wasd
 - [ ] wasd

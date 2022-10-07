@@ -1,8 +1,7 @@
 # dss-final-project
 
-### Part 1
-- [ ] wasd
-- [ ] wasd
+### Part 1 EDA
+- Libraries used: pandas, numpy, matplotlib, pandas-profiling
 ### Part 2 
 - [ ] wasd
 - [ ] wasd

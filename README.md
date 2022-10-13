@@ -1,8 +1,8 @@
 # dss-final-project
 
-### Part 1
-- [ ] wasd
-- [ ] wasd
+### Part 1 EDA
+- Libraries used: pandas, numpy, matplotlib, pandas-profiling
+- Converted geoplaces2 from ANSI to UTF8
 ### Part 2 
 - [ ] wasd
 - [ ] wasd

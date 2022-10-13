@@ -2,7 +2,7 @@
 
 ### Part 1 EDA
 - Libraries used: pandas, numpy, matplotlib, pandas-profiling
-- Remember encoding issues with geoplaces2.csv
+- Converted geoplaces2 from ANSI to UTF8
 ### Part 2 
 - [ ] wasd
 - [ ] wasd

@@ -22,3 +22,5 @@ https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978
 https://towardsdatascience.com/how-does-collaborative-filtering-work-da56ea94e331
 
 https://medium.com/analytics-vidhya/7-types-of-hybrid-recommendation-system-3e4f78266ad8
+
+https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0

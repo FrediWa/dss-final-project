@@ -1,12 +1,18 @@
 # dss-final-project
-
-### Part 1 EDA
+## Part 1
+### EDA
 - Libraries used: pandas, numpy, matplotlib, pandas-profiling
 - Converted geoplaces2 from ANSI to UTF8
-### Part 2 
+### Simple content based recommender
+- Libraries used: pandas
+- Label categorical data
+- Check for similar rows using a simple distance metric
+### Collaborative model based recommender
+### Hybrid recommender
+## Part 2 
 - [ ] wasd
 - [ ] wasd
-### Part 3 
+## Part 3 
 - [ ] wasd
 - [ ] wasd
 

@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 placeID;latitude;longitude;the_geom_meter;name;address;city;state;country;fax;zip;alcohol;smoking_area;dress_code;accessibility;price;url;Rambience;franchise;area;other_services
 134999;18.915421;-99.184871;0101000020957F000088568DE356715AC138C0A525FC464A41;Kiku Cuernavaca;Revolucion;Cuernavaca;Morelos;Mexico;?;?;no_alcohol;none;informal;no_accessibility;medium;kikucuernavaca.com.mx;familiar;f;closed;none
 132825;22.1473922;-100.983092;0101000020957F00001AD016568C4858C1243261274BA54B41;puesto de tacos;esquina santos degollado y leon guzman;s.l.p.;s.l.p.;mexico;?;78280;no_alcohol;none;informal;completely;low;?;familiar;f;open;none
 135106;22.1497088;-100.9760928;0101000020957F0000649D6F21634858C119AE9BF528A34B41;El Rincón de San Francisco;Universidad 169;San Luis Potosi;San Luis Potosi;Mexico;?;78000;wine_beer;only at bar;informal;partially;medium;?;familiar;f;open;none
 132667;23.7526973;-99.1633594;0101000020957F00005D67BCDDED815	7C1222A2DC8D84D4941;little pizza Emilio Portes Gil;calle emilio portes gil;victoria ;tamaulipas;?;?;?;no_alcohol;none;informal;completely;low;?;familiar;t;closed;none
+=======
+placeID;latitude;longitude;the_geom_meter;name;address;city;state;country;fax;zip;alcohol;smoking_area;dress_code;accessibility;price;url;ambience;franchise;area;other_services
+134999;18.915421;-99.184871;0101000020957F000088568DE356715AC138C0A525FC464A41;Kiku Cuernavaca;Revolucion;Cuernavaca;Morelos;Mexico;?;?;no_alcohol;none;informal;no_accessibility;medium;kikucuernavaca.com.mx;familiar;f;closed;none
+132825;22.1473922;-100.983092;0101000020957F00001AD016568C4858C1243261274BA54B41;puesto de tacos;esquina santos degollado y leon guzman;s.l.p.;s.l.p.;mexico;?;78280;no_alcohol;none;informal;completely;low;?;familiar;f;open;none
+135106;22.1497088;-100.9760928;0101000020957F0000649D6F21634858C119AE9BF528A34B41;El Rincón de San Francisco;Universidad 169;San Luis Potosi;San Luis Potosi;Mexico;?;78000;wine_beer;bar;informal;partially;medium;?;familiar;f;open;none
+132667;23.7526973;-99.1633594;0101000020957F00005D67BCDDED8157C1222A2DC8D84D4941;little pizza Emilio Portes Gil;calle emilio portes gil;victoria ;tamaulipas;?;?;?;no_alcohol;none;informal;completely;low;?;familiar;t;closed;none
+>>>>>>> main
 132613;23.7529035;-99.165076;0101000020957F00008EBA2D06DC8157C194E03B7B504E4941;carnitas_mata;lic. Emilio portes gil;victoria;Tamaulipas;Mexico;?;?;no_alcohol;permitted;informal;completely;medium;?;familiar;t;closed;none
 135040;22.135617;-100.969709;0101000020957F00001B552189B84A58C15A2AAEFD2CA24B41;Restaurant los Compadres;Camino a Simon Diaz 155 Centro;San Luis Potosi;SLP;Mexico;?;74000;wine_beer;none;informal;no_accessibility;high;?;familiar;f;closed;none
 132732;23.7543569;-99.171288;0101000020957F00008A20E615808157C16272FECBF84F4941;Taqueria EL amigo ;Calle Mezquite Fracc Framboyanes;Cd Victoria;Tamaulipas;Mexico;?;87018;no_alcohol;none;casual;completely;low;?;familiar;f;open;none
@@ -99,7 +107,11 @@ placeID;latitude;longitude;the_geom_meter;name;address;city;state;country;fax;zi
 135027;22.147145;-100.974494;0101000020957F000087BEDDE8D24858C1B20CDB33DBA24B41;Restaurant Orizatlan;Pascual M. Hernandez 240;San Luis Potosi;SLP;Mexico;?;?;wine_beer;none;informal;no_accessibility;medium;?;familiar;f;closed;none
 132767;18.8820871;-99.1630268;0101000020957F00001672C2C435775AC1F69BF2EF0D424A41;Restaurant Familiar El Chino;Paseo de las Fuentes;Jiutepec;Morelos;?;?;?;wine_beer;permitted;casual;partially;medium;?;familiar;f;open;variety
 135039;22.145893;-100.97487;0101000020957F000040D5CE4E014958C177DC62AE09A34B41;Restaurant de Mariscos de Picon;Miguel Barragan 46 Centro;San Luis Potosi;SLP;Mexico;?;79300;no_alcohol;area;informal;no_accessibility;low;?;familiar;f;closed;none
+<<<<<<< HEAD
 134996;18.923429;-99.216413;0101000020957F0000340233E7476F5AC132844E2A2C504A41;Sanborns Casa Piedra;Lomas del Mirador;Cuernavaca;Morelos;Mexico;?;?;wine_beer;only at bar;informal;no_accessibility;medium;?;familiar;t;closed;Internet
+=======
+134996;18.923429;-99.216413;0101000020957F0000340233E7476F5AC132844E2A2C504A41;Sanborns Casa Piedra;Lomas del Mirador;Cuernavaca;Morelos;Mexico;?;?;wine_beer;bar;informal;no_accessibility;medium;?;familiar;t;closed;Internet
+>>>>>>> main
 132755;22.153324;-101.0195459;0101000020957F000026CADE45A14658C1F011EBCA55AF4B41;La Estrella de Dimas;Av. de los Pintores;San Luis Potosi;S.L.P.;Mexico;?;?;no_alcohol;none;informal;partially;medium;?;familiar;f;closed;variety
 135043;22.185756;-100.944518;0101000020957F00006B9D7207BE4358C12419118D05984B41;pizza clasica;524 Soledad de Graciano Sanchez;Soledad;SLP;Mexico;?;?;no_alcohol;none;informal;no_accessibility;medium;?;familiar;f;closed;none
 132654;23.7355234;-99.1295877;0101000020957F000040E8F628488557C18224E8B948454941;Carnitas Mata  Calle 16 de Septiembre;16 de Septiembre;victoria ;tamaulipas;?;?;?;no_alcohol;none;informal;completely;low;?;familiar;f;closed;none

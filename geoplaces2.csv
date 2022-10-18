@@ -1,4 +1,4 @@
-placeID;latitude;longitude;the_geom_meter;name;address;city;state;country;fax;zip;alcohol;smoking_area;dress_code;accessibility;price;url;Rambience;franchise;area;other_services
+placeID;latitude;longitude;the_geom_meter;name;address;city;state;country;fax;zip;alcohol;smoking_area;dress_code;accessibility;price;url;ambience;franchise;area;other_services
 134999;18.915421;-99.184871;0101000020957F000088568DE356715AC138C0A525FC464A41;Kiku Cuernavaca;Revolucion;Cuernavaca;Morelos;Mexico;?;?;no_alcohol;none;informal;no_accessibility;medium;kikucuernavaca.com.mx;familiar;f;closed;none
 132825;22.1473922;-100.983092;0101000020957F00001AD016568C4858C1243261274BA54B41;puesto de tacos;esquina santos degollado y leon guzman;s.l.p.;s.l.p.;mexico;?;78280;no_alcohol;none;informal;completely;low;?;familiar;f;open;none
 135106;22.1497088;-100.9760928;0101000020957F0000649D6F21634858C119AE9BF528A34B41;El Rincón de San Francisco;Universidad 169;San Luis Potosi;San Luis Potosi;Mexico;?;78000;wine_beer;bar;informal;partially;medium;?;familiar;f;open;none

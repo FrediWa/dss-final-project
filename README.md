@@ -8,7 +8,14 @@
 - Label categorical data
 - Check for similar rows using a simple distance metric
 ### Collaborative model based recommender
+- Libraries used: pandas, numpy
+- Create utility matrix and factorize using SVD
+- Check for cosine similarity on hidden features V
+- A Recommender class serves as an interface
 ### Hybrid recommender
+- Inherit the Recommender class
+- Implement a Cascade recommender
+- Use the simple content based recommender if CFRS failed to make a recommendation 
 ## Part 2 
 - [ ] wasd
 - [ ] wasd

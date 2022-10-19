@@ -24,3 +24,5 @@ https://towardsdatascience.com/how-does-collaborative-filtering-work-da56ea94e33
 https://medium.com/analytics-vidhya/7-types-of-hybrid-recommendation-system-3e4f78266ad8
 
 https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
+
+https://machinelearningmastery.com/using-singular-value-decomposition-to-build-a-recommender-system/

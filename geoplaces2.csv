@@ -99,11 +99,7 @@ placeID;latitude;longitude;the_geom_meter;name;address;city;state;country;fax;zi
 135027;22.147145;-100.974494;0101000020957F000087BEDDE8D24858C1B20CDB33DBA24B41;Restaurant Orizatlan;Pascual M. Hernandez 240;San Luis Potosi;SLP;Mexico;?;?;wine_beer;none;informal;no_accessibility;medium;?;familiar;f;closed;none
 132767;18.8820871;-99.1630268;0101000020957F00001672C2C435775AC1F69BF2EF0D424A41;Restaurant Familiar El Chino;Paseo de las Fuentes;Jiutepec;Morelos;?;?;?;wine_beer;permitted;casual;partially;medium;?;familiar;f;open;variety
 135039;22.145893;-100.97487;0101000020957F000040D5CE4E014958C177DC62AE09A34B41;Restaurant de Mariscos de Picon;Miguel Barragan 46 Centro;San Luis Potosi;SLP;Mexico;?;79300;no_alcohol;area;informal;no_accessibility;low;?;familiar;f;closed;none
-<<<<<<< HEAD
-134996;18.923429;-99.216413;0101000020957F0000340233E7476F5AC132844E2A2C504A41;Sanborns Casa Piedra;Lomas del Mirador;Cuernavaca;Morelos;Mexico;?;?;wine_beer;only at bar;informal;no_accessibility;medium;?;familiar;t;closed;Internet
-=======
 134996;18.923429;-99.216413;0101000020957F0000340233E7476F5AC132844E2A2C504A41;Sanborns Casa Piedra;Lomas del Mirador;Cuernavaca;Morelos;Mexico;?;?;wine_beer;bar;informal;no_accessibility;medium;?;familiar;t;closed;Internet
->>>>>>> main
 132755;22.153324;-101.0195459;0101000020957F000026CADE45A14658C1F011EBCA55AF4B41;La Estrella de Dimas;Av. de los Pintores;San Luis Potosi;S.L.P.;Mexico;?;?;no_alcohol;none;informal;partially;medium;?;familiar;f;closed;variety
 135043;22.185756;-100.944518;0101000020957F00006B9D7207BE4358C12419118D05984B41;pizza clasica;524 Soledad de Graciano Sanchez;Soledad;SLP;Mexico;?;?;no_alcohol;none;informal;no_accessibility;medium;?;familiar;f;closed;none
 132654;23.7355234;-99.1295877;0101000020957F000040E8F628488557C18224E8B948454941;Carnitas Mata  Calle 16 de Septiembre;16 de Septiembre;victoria ;tamaulipas;?;?;?;no_alcohol;none;informal;completely;low;?;familiar;f;closed;none

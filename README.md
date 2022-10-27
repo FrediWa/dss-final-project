@@ -4,9 +4,6 @@
 - Developed with Jupyter Anaconda
 - Libraries used: pandas, numpy, matplotlib, pandas-profiling
 - Encoding issues with geoplaces2.csv *Fixed
-### EDA
-- Libraries used: pandas, numpy, matplotlib, pandas-profiling
-- Converted geoplaces2 from ANSI to UTF8
 ### Simple content based recommender
 - Libraries used: pandas
 - Label categorical data

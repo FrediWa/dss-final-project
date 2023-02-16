@@ -1,4 +1,5 @@
 # A Cascade (Hybrid) recommender system
+Course grade: 5
 ## Created by Fredrik Wasström and Samuel Granvik
 
 This was the final project of the course "Decision support systems" where we were tasked to create a recommender system. Extra points were given for a hybrid system. Our approach is a cascade recommender system that mainly uses a collaborative model based recommender but then uses a simpler (and more naive) content based recommender to combat cold start.

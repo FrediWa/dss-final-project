@@ -1,3 +1,10 @@
+# A Cascade (Hybrid) recommender system
+## Created by me (Fredrik) and Samuel Granvik
+
+This was the final project of the course "Decision support systems" where we were tasked to create a recommender system. Extra points were given for a hybrid system. Our approach is a cascade recommender system that mainly uses a collaborative model based recommender but then uses a simpler (more naive) content based for fallback for example for cold start.
+
+Below is the original README with more notes and references. The notebooks also contain alot of details and reflections.
+
 # dss-final-project
 
 ### Part 1 EDA
